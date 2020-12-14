@@ -192,5 +192,9 @@ section {
   .ten {
     display: block;
   }
+    .info {
+    line-height: 20px;
+    font-size: 13px;
+  }
 }
 
