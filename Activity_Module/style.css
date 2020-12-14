@@ -196,5 +196,9 @@ section {
     line-height: 20px;
     font-size: 13px;
   }
+  .Intro h1 {
+  font-size: 60px;
+  line-height: 70px;
+}
 }
 
