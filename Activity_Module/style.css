@@ -200,6 +200,9 @@ section {
   font-size: 60px;
   line-height: 70px;
 }
+    section div {
+    padding: 25px
+  }
   
 }
 @media (max-width: 600px) {
@@ -207,5 +210,12 @@ section {
     width: 45%;
     height: 220px;
   }
+
+
+  section div {
+    width: 100%;
+    padding: 20px
+  }
+
 }
 
