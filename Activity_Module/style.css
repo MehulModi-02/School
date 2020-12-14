@@ -192,30 +192,27 @@ section {
   .ten {
     display: block;
   }
-    .info {
-    line-height: 20px;
-    font-size: 15px;
-  }
-  .Intro h1 {
-  font-size: 60px;
-  line-height: 70px;
-}
-    section div {
+
+  section div {
     padding: 25px
   }
-  
+
+  .info p {
+    width: 100%;
+    line-height: 20px;
+    font-size: 13px;
+  }
 }
+
 @media (max-width: 600px) {
   .Question {
     width: 45%;
     height: 220px;
   }
 
-
   section div {
     width: 100%;
     padding: 20px
   }
-
 }
 
