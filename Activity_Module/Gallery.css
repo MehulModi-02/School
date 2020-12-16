@@ -442,13 +442,13 @@ nav span {
   @media screen and (max-width: 400px) {
     .Intro img {
       margin-top: 50px;
-      width: 80%;
+      width: 90%;
     }
 
     .Intro p {
       width: 90%;
-      font-size: 10px;
-      line-height: 18px;
+      font-size: 8px;
+      line-height: 16px;
     }
 
     .Art {
