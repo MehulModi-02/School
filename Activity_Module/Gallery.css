@@ -424,10 +424,6 @@ nav span {
       margin-top: 40px;
     }
 
-    .Art:hover {
-      margin-top: 40px;
-    }
-
     .Art img {
       width: 100%;
       height: 200px;
@@ -441,8 +437,8 @@ nav span {
 
   @media screen and (max-width: 400px) {
     .Intro img {
-      margin-top: 50px;
-      width: 90%;
+      margin-top: 80px;
+      width: 100%;
     }
 
     .Intro p {
